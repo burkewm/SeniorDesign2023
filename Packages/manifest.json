@@ -1,15 +1,25 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "Normal",
+      "url": "https://normcore-registry.normcore.io",
+      "scopes": [
+        "com.normalvr",
+        "io.normcore"
+      ]
+    }
+  ],
   "dependencies": {
     "com.microsoft.mixedreality.input": "file:MixedReality/com.microsoft.mixedreality.input-0.9.2006.tgz",
-    "com.microsoft.mixedreality.openxr": "file:MixedReality/com.microsoft.mixedreality.openxr-1.4.0.tgz",
-    "com.microsoft.mixedreality.toolkit.examples": "file:MixedReality/com.microsoft.mixedreality.toolkit.examples-2.7.3.tgz",
-    "com.microsoft.mixedreality.toolkit.extensions": "file:MixedReality/com.microsoft.mixedreality.toolkit.extensions-2.7.3.tgz",
-    "com.microsoft.mixedreality.toolkit.foundation": "file:MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.7.3.tgz",
-    "com.microsoft.mixedreality.toolkit.standardassets": "file:MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.7.3.tgz",
-    "com.microsoft.mixedreality.toolkit.testutilities": "file:MixedReality/com.microsoft.mixedreality.toolkit.testutilities-2.7.3.tgz",
-    "com.microsoft.mixedreality.toolkit.tools": "file:MixedReality/com.microsoft.mixedreality.toolkit.tools-2.7.3.tgz",
+    "com.microsoft.mixedreality.openxr": "file:MixedReality/com.microsoft.mixedreality.openxr-1.4.4.tgz",
+    "com.microsoft.mixedreality.toolkit.examples": "file:MixedReality/com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz",
+    "com.microsoft.mixedreality.toolkit.extensions": "file:MixedReality/com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz",
+    "com.microsoft.mixedreality.toolkit.foundation": "file:MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz",
+    "com.microsoft.mixedreality.toolkit.standardassets": "file:MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz",
+    "com.microsoft.mixedreality.toolkit.testutilities": "file:MixedReality/com.microsoft.mixedreality.toolkit.testutilities-2.8.2.tgz",
+    "com.microsoft.mixedreality.toolkit.tools": "file:MixedReality/com.microsoft.mixedreality.toolkit.tools-2.8.2.tgz",
     "com.microsoft.spatialaudio.spatializer.unity": "file:MixedReality/com.microsoft.spatialaudio.spatializer.unity-1.0.246.tgz",
-    "com.normalvr.normcore": "2.2.3",
+    "com.normalvr.normcore": "2.3.0",
     "com.unity.collab-proxy": "1.15.15",
     "com.unity.ide.rider": "3.0.13",
     "com.unity.ide.visualstudio": "2.0.14",
@@ -53,15 +63,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "scopedRegistries": [
-    {
-      "name": "Normal",
-      "url": "https://normcore-registry.normcore.io",
-      "scopes": [
-        "com.normalvr",
-        "io.normcore"
-      ]
-    }
-  ]
+  }
 }
