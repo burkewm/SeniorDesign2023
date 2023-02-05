@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0b254ffcb99856345b55ad5cae05b929
+=======
+guid: 80a5246ae4d3119459bd94bd0d518771
+>>>>>>> Climbing
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
