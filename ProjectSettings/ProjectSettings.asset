@@ -139,6 +139,8 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 5926595256590694154, guid: 58eff94a17351e14c994a3c88c67ee56, type: 2}
+  - {fileID: -2327918405036220516, guid: 29de486e442768f4b8828bfce3752516, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -778,8 +780,9 @@ PlayerSettings:
   webGLPowerPreference: 2
   scriptingDefineSymbols:
     : NORMCORE
-    Android: NORMCORE
-    Standalone: NORMCORE
+    Android: NORMCORE;USE_INPUT_SYSTEM_POSE_CONTROL;USE_INPUT_SYSTEM_POSE_CONTROL
+    Standalone: NORMCORE;USE_INPUT_SYSTEM_POSE_CONTROL;USE_INPUT_SYSTEM_POSE_CONTROL
+    Windows Store Apps: USE_INPUT_SYSTEM_POSE_CONTROL;USE_INPUT_SYSTEM_POSE_CONTROL
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
