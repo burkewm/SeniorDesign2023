@@ -1,0 +1,1706 @@
+fileFormatVersion: 2
+guid: de6ef15fc45534241bb4ad6f5c74f745
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00001-texture
+    second: {fileID: 2800000, guid: 9fcc8933689438f4396f9df9f482a0a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00003-texture
+    second: {fileID: 2800000, guid: 84da67c171b1ee04c984fa01e0084a89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00008-texture
+    second: {fileID: 2800000, guid: 35d7dbddb5fa8854486e811fab3c193c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00011-texture
+    second: {fileID: 2800000, guid: fd2621dfcf0699c4683024d030d9fd0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00013-texture
+    second: {fileID: 2800000, guid: 3efb7e98ad0b6344e9f170344666c557, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00014-texture
+    second: {fileID: 2800000, guid: 3c56107b91cb2594b87a4acef9ccee5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00015-texture
+    second: {fileID: 2800000, guid: f0759892e7cccb8459e5ee165acfae51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00017-texture
+    second: {fileID: 2800000, guid: 36493fc36dd4165429eb8192fbd97354, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00021-texture
+    second: {fileID: 2800000, guid: 7985a6bbd72abd342a4e58e50d72037e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00025-texture
+    second: {fileID: 2800000, guid: 7830b7c729edcf54b8afff73a603ea14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00028-texture
+    second: {fileID: 2800000, guid: 85670b68a0020ed429e45e4aa72d0140, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00032-texture
+    second: {fileID: 2800000, guid: 8db1732bef4e1864994537be55e4031f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00033-texture
+    second: {fileID: 2800000, guid: bdcf2cb7122dd2f4ea7a432086f34063, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00035-texture
+    second: {fileID: 2800000, guid: cf956fb334d6dfd43b4b0666431b11a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00037-texture
+    second: {fileID: 2800000, guid: 981a4b1ba252c394e9554703f8272b23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00038-texture
+    second: {fileID: 2800000, guid: 1790f34bd37f4304586df46ce6ab93f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00040-texture
+    second: {fileID: 2800000, guid: ee7a7e5be1c2d1c42be2c3322daeffd7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00041-texture
+    second: {fileID: 2800000, guid: c96b41fa7eec6f04d92dee267427900e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00042-texture
+    second: {fileID: 2800000, guid: 46acaf683258d3b42a08037321bd881b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00043-texture
+    second: {fileID: 2800000, guid: 8385f26493073f747a380e374b3722cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00044-texture
+    second: {fileID: 2800000, guid: 99d46df5d77450546a065d7cde0c2a8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00045-texture
+    second: {fileID: 2800000, guid: e04810eaf52a3a144aa4310bcb15a32c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00046-texture
+    second: {fileID: 2800000, guid: b6346eb32aff2924abcf07a139d31b0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00047-texture
+    second: {fileID: 2800000, guid: b1b7ea9c4d430f14196ba798c760a65a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00048-texture
+    second: {fileID: 2800000, guid: c911ce7f3067c2946b155dc6944fd01c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00049-texture
+    second: {fileID: 2800000, guid: 4abb94c5058b8864cbcb0c6316e86a6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00050-texture
+    second: {fileID: 2800000, guid: f37d5ba20e6190c4abcb0952197bf689, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00051-texture
+    second: {fileID: 2800000, guid: e396bf60b0bb328468aae4725d96c52b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00052-texture
+    second: {fileID: 2800000, guid: 085adaa11a10eec4c88e6dd8bebc5766, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00053-texture
+    second: {fileID: 2800000, guid: 36690a50ad9c7eb48b744b4eb1619494, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00054-texture
+    second: {fileID: 2800000, guid: a1aadfc06dc9893499dcd1b5755946ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00055-texture
+    second: {fileID: 2800000, guid: 51f52f671a49aa44596b1e5a04a5543f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00056-texture
+    second: {fileID: 2800000, guid: 10df4c11f5266e744bab523616b3cc8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00057-texture
+    second: {fileID: 2800000, guid: 2edb75605ba5cd04da8303de364f153f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00058-texture
+    second: {fileID: 2800000, guid: 696ca15fe9b77fd4488a3c67a1af1041, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00059-texture
+    second: {fileID: 2800000, guid: 23bfc27f7b40833458507982422762fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00061-texture
+    second: {fileID: 2800000, guid: 4b920d0ed8b7bdf4f9a4f04ce8ebbfff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00062-texture
+    second: {fileID: 2800000, guid: 4818d918b4156c94ba8c32aaf7e77748, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00063-texture
+    second: {fileID: 2800000, guid: 7c5ace13055e1564898eda767107de03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00064-texture
+    second: {fileID: 2800000, guid: 19231fa4b87adbe4d8d9be5aa3e8127a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00065-texture
+    second: {fileID: 2800000, guid: 541d26c1fb7da6242a628e501c1288e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00066-texture
+    second: {fileID: 2800000, guid: 55a7ceff5253b7345b61be6c98858160, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00067-texture
+    second: {fileID: 2800000, guid: 1f1fd8924f836074b88561130f534b3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00068-texture
+    second: {fileID: 2800000, guid: 005ce3e05a2b02647886cc4afb4c0cae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00069-texture
+    second: {fileID: 2800000, guid: 3d43f27b50263e54595ae6c4f6f05dce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00070-texture
+    second: {fileID: 2800000, guid: f20a778b068e9fa4a92acbd5827b7464, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00071-texture
+    second: {fileID: 2800000, guid: d7df6e649d41f7647ad8f1c3708586d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00072-texture
+    second: {fileID: 2800000, guid: 8bb419c56f210274795ba4849e926457, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00073-texture
+    second: {fileID: 2800000, guid: 86ec4f1ea1bb1df458c9fa435f4867bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00074-texture
+    second: {fileID: 2800000, guid: 6b58bf240c3e5f04086996fb9ec61319, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00075-texture
+    second: {fileID: 2800000, guid: 3f30514c73a779340a69ff8859275279, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00076-texture
+    second: {fileID: 2800000, guid: 69a3bdf4bd1bf7b45a1007f8b104eef0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00077-texture
+    second: {fileID: 2800000, guid: 49ed65bc012de274c9168673bb3b1734, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00078-texture
+    second: {fileID: 2800000, guid: c09a1460672e7a247b8049f134ceb190, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00079-texture
+    second: {fileID: 2800000, guid: fe3088109beb817488bf7816b1dbee8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00080-texture
+    second: {fileID: 2800000, guid: a834ecdb4e9c59b49af77c38ee5eab4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00081-texture
+    second: {fileID: 2800000, guid: 8d9adf050db2ba74db5e55aa4cb294b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00082-texture
+    second: {fileID: 2800000, guid: ecd94c6d2edbe0d4a947e8904de2a65d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00083-texture
+    second: {fileID: 2800000, guid: f6319a110ca4f4a4f8853fd3b92e8e93, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00084-texture
+    second: {fileID: 2800000, guid: 2578c24ff925ab7459a337aebea444b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00085-texture
+    second: {fileID: 2800000, guid: cbede5c6ba3008a49a03711d84acf00b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00086-texture
+    second: {fileID: 2800000, guid: 2b3c96017cbf83546abec1d31b01295a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00089-texture
+    second: {fileID: 2800000, guid: a7a5d065ddb1bd642abff0409f2dca75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00090-texture
+    second: {fileID: 2800000, guid: 3d2d2765e4d611840a90e9e9297562d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00091-texture
+    second: {fileID: 2800000, guid: 85e36a6e71f4f2c47813f98544fbf876, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00092-texture
+    second: {fileID: 2800000, guid: aebe588d20c19a449b71b35fa33dae28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00093-texture
+    second: {fileID: 2800000, guid: ab3ff7f6b4615d04a95689d41e5dbee9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00094-texture
+    second: {fileID: 2800000, guid: 972d480194fa3dd4db8b8b3c0547b93b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00095-texture
+    second: {fileID: 2800000, guid: 1f3c67cf38fea6f45abaecfade1c109f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00096-texture
+    second: {fileID: 2800000, guid: 907daff57848b2f41985874ff3cd9dc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00097-texture
+    second: {fileID: 2800000, guid: a262a69ee7adfc34e82852c8e498daa6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00098-texture
+    second: {fileID: 2800000, guid: f6bceb4b12f6f5f47b3ea32a29ec278d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00099-texture
+    second: {fileID: 2800000, guid: abefe2955f47c9e49bc4a5d7a07b568f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00102-texture
+    second: {fileID: 2800000, guid: 36974a72443eaf64f88f66266c2eb6fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00103-texture
+    second: {fileID: 2800000, guid: 0b973afff00809f4a87b5d1feeaed4ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00104-texture
+    second: {fileID: 2800000, guid: 830f3f57817b2834489a037a6cc8aa5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00105-texture
+    second: {fileID: 2800000, guid: f2e789987b3af1b418c1ec9b266c8653, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00106-texture
+    second: {fileID: 2800000, guid: c2c2bbe89ac5ca24399dea609a94073c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00107-texture
+    second: {fileID: 2800000, guid: 94d793f33a802334892a35a1f226f61a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00108-texture
+    second: {fileID: 2800000, guid: 73da9a0387f5c7341b8c6533670d9c73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00109-texture
+    second: {fileID: 2800000, guid: 68ae968c5aeb1bb4f9b8a68f3d3e7b1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00110-texture
+    second: {fileID: 2800000, guid: 5268d299c773c374a8450906b5037cb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00111-texture
+    second: {fileID: 2800000, guid: b91511fef41b1b94c9d663c72ce60d49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00112-texture
+    second: {fileID: 2800000, guid: 2c0e4af922d72b04ea55446ee4ea8eab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00113-texture
+    second: {fileID: 2800000, guid: f21b6215c8fae0d40b4eaa1530e4b718, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00114-texture
+    second: {fileID: 2800000, guid: 06db67c4599355249826fa6688d6cac7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00115-texture
+    second: {fileID: 2800000, guid: 68be59c13eb073b41bdb7cb573172b8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00116-texture
+    second: {fileID: 2800000, guid: 2342ef33a4bcec846b1d2e02fb1a3a6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00117-texture
+    second: {fileID: 2800000, guid: 4322842c30ebde640aac25527d60be90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00118-texture
+    second: {fileID: 2800000, guid: 9f519d0477ec79e42988a52e8eb8d423, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00119-texture
+    second: {fileID: 2800000, guid: 682094ce57945174ca041b9237f4699b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00120-texture
+    second: {fileID: 2800000, guid: 6fbed1b36deed9f49946200d19d48402, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00121-texture
+    second: {fileID: 2800000, guid: 4c24ffd3248ee844287853f2a46c4eae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00124-texture
+    second: {fileID: 2800000, guid: 1ef7cefc384f7ac48af7be5eec45107e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00127-texture
+    second: {fileID: 2800000, guid: c7ad07a6cbdca8c46bef18034f33eb1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00128-texture
+    second: {fileID: 2800000, guid: 2af9b59d60af23e48a623923b666a730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00129-texture
+    second: {fileID: 2800000, guid: 60824db36396f7743be8b4ad40ad4fc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00130-texture
+    second: {fileID: 2800000, guid: 3baf9c6a3feae3442aefcbf29d9e8b37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00131-texture
+    second: {fileID: 2800000, guid: 8a8167fbe51d9b7428c031bbf0b4d508, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00132-texture
+    second: {fileID: 2800000, guid: c73bcc6b882335a4faf25d5f8b9d72b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00133-texture
+    second: {fileID: 2800000, guid: 98f8686d7acc92a4f92a4dd167cf4d6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00134-texture
+    second: {fileID: 2800000, guid: cb717683f63fb9141b6298fed38c2bf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00135-texture
+    second: {fileID: 2800000, guid: 916ec965c2f39914f8f4112deb1717ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00136-texture
+    second: {fileID: 2800000, guid: 702aa8a877defcb4c95e6e1463575c23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00137-texture
+    second: {fileID: 2800000, guid: 1947477e7cb544642b6dc6dcbbe18689, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00138-texture
+    second: {fileID: 2800000, guid: 85a3df489ecbe1940a55931e551b8f44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00139-texture
+    second: {fileID: 2800000, guid: 135c316d186beeb4395982867af1b5d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00140-texture
+    second: {fileID: 2800000, guid: 9168a415d3976ce4d956d15a914236fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00141-texture
+    second: {fileID: 2800000, guid: eb9de78f039a47041a8da2d5372649b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00142-texture
+    second: {fileID: 2800000, guid: c69435555244cd94dba0b5eb90e7426c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00143-texture
+    second: {fileID: 2800000, guid: 8fd2bdd48bd117b4f98c5e1ae9457346, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00144-texture
+    second: {fileID: 2800000, guid: eebc843344b71134faf2d810e553e5e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00145-texture
+    second: {fileID: 2800000, guid: ec1cd08ef122f484a865d08d4b29f5c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00146-texture
+    second: {fileID: 2800000, guid: 7bdbf14684291ba42b7ff434a80d6c06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00147-texture
+    second: {fileID: 2800000, guid: a6d7be5e7fa99ed45956ae64b7e90103, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00148-texture
+    second: {fileID: 2800000, guid: 5d411e734cb531d449c449e0065ab262, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00149-texture
+    second: {fileID: 2800000, guid: 70cda391961e4124b9edc16a88af68b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00150-texture
+    second: {fileID: 2800000, guid: e840ca9a17afabd4db48cf72d222dd8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00151-texture
+    second: {fileID: 2800000, guid: fa530615a9207814a98f280755e9e377, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00152-texture
+    second: {fileID: 2800000, guid: 33e36ec26ad4040448b264796c71dbaa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00153-texture
+    second: {fileID: 2800000, guid: b43b1b27b2a2356409b9e823993477e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00154-texture
+    second: {fileID: 2800000, guid: 70d703dee9fea5c4198c255600ceaf58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00155-texture
+    second: {fileID: 2800000, guid: 69a82da8db7ccad4ca36d044b0ff3c5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00156-texture
+    second: {fileID: 2800000, guid: 4f97f1bba9230304f86298161383deba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00157-texture
+    second: {fileID: 2800000, guid: d34e03504e5bf3544ac9077c6ad82362, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00158-texture
+    second: {fileID: 2800000, guid: 59950bb582134314c82fc98d72a5bcb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00159-texture
+    second: {fileID: 2800000, guid: 9ad32168a6f0baa46ab123b41cb63495, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00160-texture
+    second: {fileID: 2800000, guid: 203d51ea1c9d59444b1753f60e7bbb67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00162-texture
+    second: {fileID: 2800000, guid: b6af6ca66eba55a4195f4bcef20a9d51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00163-texture
+    second: {fileID: 2800000, guid: 8e1ad355d36475b4aae13ae77d3e5ecc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00164-texture
+    second: {fileID: 2800000, guid: 200dd28f7ea3b3f40982368be2a4df57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00165-texture
+    second: {fileID: 2800000, guid: d0061aed683314543811bd6edcb1fa1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00166-texture
+    second: {fileID: 2800000, guid: 99e66e200635a8242b06e3bb5bbe878d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00170-texture
+    second: {fileID: 2800000, guid: a9c6b07cceba03e449c9d0d0130e4cfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00171-texture
+    second: {fileID: 2800000, guid: d2beb0c85e1d92444b128d49786bbe9a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00172-texture
+    second: {fileID: 2800000, guid: b16bdbfaaf6deb1478873f9f7dc8fffa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00173-texture
+    second: {fileID: 2800000, guid: 3051539f4111e994f8cd6a24b5cd942b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00174-texture
+    second: {fileID: 2800000, guid: a6446de135090c94c88f5829d2b78836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00175-texture
+    second: {fileID: 2800000, guid: 04cd50ec2b914304995f11e595d6bddb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00176-texture
+    second: {fileID: 2800000, guid: bef7e77b62447324895c6753033c5891, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00177-texture
+    second: {fileID: 2800000, guid: 28d464440965b814fa7a1736f3c8a7ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00178-texture
+    second: {fileID: 2800000, guid: 91bae52adeedbd64b987f60c2fbae4ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00181-texture
+    second: {fileID: 2800000, guid: 2aafb2d693e16c9478d6fe3c9585569c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00182-texture
+    second: {fileID: 2800000, guid: a3ebdf24cb2325448b8048aa78a1c120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00183-texture
+    second: {fileID: 2800000, guid: 2a6b1ed859174a7489818ee3b2e092ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00184-texture
+    second: {fileID: 2800000, guid: f4a45617687e9a84b985db22d26c87bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00185-texture
+    second: {fileID: 2800000, guid: 46270ff3993d8944e9ded1c8a351bcdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00186-texture
+    second: {fileID: 2800000, guid: 6d77505d26a307f4e991d316ed1fea82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00187-texture
+    second: {fileID: 2800000, guid: 2312913a21b534849a367803f140e7c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00188-texture
+    second: {fileID: 2800000, guid: d978cf8ce2e006b4f83ea3ed8ae65487, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00189-texture
+    second: {fileID: 2800000, guid: 6426b2fbe3a91904f83ad91fddb01cc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00190-texture
+    second: {fileID: 2800000, guid: d443e9df51275c04aa4ef2147a0a9f76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00191-texture
+    second: {fileID: 2800000, guid: 9b8ff2c599f29fd43b2bebfa153fe496, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00192-texture
+    second: {fileID: 2800000, guid: 7a2c46f292eb24a40a433b5cb83afe39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00194-texture
+    second: {fileID: 2800000, guid: f2a96c4ce5f1b9c489c5237db3be41b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00203-texture
+    second: {fileID: 2800000, guid: b8accdf452e81ad4d90488c774aa5c21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00204-texture
+    second: {fileID: 2800000, guid: d8c61a54dedd00042b37005df959f126, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3232-00211-texture
+    second: {fileID: 2800000, guid: 04e2d17dec8298f48a6f3ea1c60fa25e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00002-texture
+    second: {fileID: 2800000, guid: 55e26cc222198114ea7eec982dfc927e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00003-texture
+    second: {fileID: 2800000, guid: db9eab84b82dfaf4daab8bd20ffb70a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00018-texture
+    second: {fileID: 2800000, guid: 96e3e08d6ce09894c8030310da687c3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00021-texture
+    second: {fileID: 2800000, guid: 8edfae33091f0324b921ee55b399cad9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00022-texture
+    second: {fileID: 2800000, guid: 3b9c32dcb5f34674f95e677993eb5b4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00023-texture
+    second: {fileID: 2800000, guid: 05e298fc81baa494eb58e57cdeaff62a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00024-texture
+    second: {fileID: 2800000, guid: 6929322143b6c2845b008d5199f298ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00025-texture
+    second: {fileID: 2800000, guid: ace4862ca645a804f9af605a53cf1d99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00026-texture
+    second: {fileID: 2800000, guid: a9244d1e94f594c4fabc85feaadb157d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00029-texture
+    second: {fileID: 2800000, guid: 87aae4d09d1616a48821f2b2025e65f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00030-texture
+    second: {fileID: 2800000, guid: 5023d67c41df5a440a9d4125d6da1b7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00031-texture
+    second: {fileID: 2800000, guid: bc983a2f6013e6f44bfeda90b46eae01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00032-texture
+    second: {fileID: 2800000, guid: cd77df1ffcf62ba40994a34e709eff3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00033-texture
+    second: {fileID: 2800000, guid: bde7750a4e6f2a445a91a4a7df0dc5a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00034-texture
+    second: {fileID: 2800000, guid: b13fa6f509ec58945b5377e6e9aead62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00036-texture
+    second: {fileID: 2800000, guid: 8d6897429f8f31247bf995ab1303cebb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00037-texture
+    second: {fileID: 2800000, guid: 731f9458d9164ab48b0d10b33c7495e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00038-texture
+    second: {fileID: 2800000, guid: 4251949dd8ab2db40b3240d714669e5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00041-texture
+    second: {fileID: 2800000, guid: 51c7bec5a5902d247a22987b68bbc24d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00042-texture
+    second: {fileID: 2800000, guid: 4a1541fa5a7572640afc12377f9fa4bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00043-texture
+    second: {fileID: 2800000, guid: a6aaa9882e1be1144888a8ec181df642, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00044-texture
+    second: {fileID: 2800000, guid: d9fd5e8973e13fc4993a8a086ac953aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00045-texture
+    second: {fileID: 2800000, guid: a21d0b84c73b2b740b75c0959f79497c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00046-texture
+    second: {fileID: 2800000, guid: f95fd8eb6f2e80446b54a53452a0c8ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00047-texture
+    second: {fileID: 2800000, guid: 874077fa2a95364469b87d454ae036cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00048-texture
+    second: {fileID: 2800000, guid: becb056701e2c0847ae65a42474c465e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00049-texture
+    second: {fileID: 2800000, guid: 74c96df9be20f174a9be448b41813a9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00050-texture
+    second: {fileID: 2800000, guid: 01eb0086dd8e6424f8e8e55aadff8efc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00051-texture
+    second: {fileID: 2800000, guid: 1e937b465029a8f41b90c37084788da0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00052-texture
+    second: {fileID: 2800000, guid: db0ec03c1b50f0848994131e339a4b9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00053-texture
+    second: {fileID: 2800000, guid: 7fe415f11366c9e429f654993e319040, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00054-texture
+    second: {fileID: 2800000, guid: cdc0b7b5d825cdb44ac86a58743f309b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00055-texture
+    second: {fileID: 2800000, guid: 8c26b154a5b11c1448a66aa02aa96e1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00056-texture
+    second: {fileID: 2800000, guid: 6719dae3c653e6740947419cd1f1a717, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00057-texture
+    second: {fileID: 2800000, guid: d1cd78b24c92d334fbf9471a1fcfbe26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00058-texture
+    second: {fileID: 2800000, guid: 482b5545a11f7a440bbc82538d0aae59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00060-texture
+    second: {fileID: 2800000, guid: d221b18594535a741b6d352cbff468ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00061-texture
+    second: {fileID: 2800000, guid: 5a6c1db74d0c6d946aef0eaa18202bf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00062-texture
+    second: {fileID: 2800000, guid: 6b37707c2f8fb5c4691a2e68600e3874, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00063-texture
+    second: {fileID: 2800000, guid: 78889eac43be0bd4f832fae13d5732bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00064-texture
+    second: {fileID: 2800000, guid: 9ab597b84170ca24f9fb1c77ad1bac0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00065-texture
+    second: {fileID: 2800000, guid: 2b1256a2776089241bff84668143bd37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00066-texture
+    second: {fileID: 2800000, guid: 41f1d6884ae8e724a96a58f6cb7c8c7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00067-texture
+    second: {fileID: 2800000, guid: bab0890cb7369a549b4b897675063b89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00068-texture
+    second: {fileID: 2800000, guid: 7693ee875fff9754497ba507a4799610, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00069-texture
+    second: {fileID: 2800000, guid: 643f74f0b7da2724891ed4c09be41185, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00070-texture
+    second: {fileID: 2800000, guid: 480ef40df2c6fc14db7362b935360a25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00071-texture
+    second: {fileID: 2800000, guid: a15e8c523bab8244ea915b70d95f215b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00072-texture
+    second: {fileID: 2800000, guid: 921da864d873c4c4391ef105271e1f35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00073-texture
+    second: {fileID: 2800000, guid: 88fcc2543624c2e4b8320bed9f8aa7c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00074-texture
+    second: {fileID: 2800000, guid: 07e1502a0d4d5fa4abda26347b451c55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00075-texture
+    second: {fileID: 2800000, guid: 181d69660ba627a4eb213aebd05799ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00076-texture
+    second: {fileID: 2800000, guid: cb499a8519aaaf34ca8fcc7d86582ca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00079-texture
+    second: {fileID: 2800000, guid: 0703ea96d2f6e804b8f9d8c5b6a2eb76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00080-texture
+    second: {fileID: 2800000, guid: 68f1c95eb3977c74387ae1661ae559dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00081-texture
+    second: {fileID: 2800000, guid: 11e7dde3b6421e948ae26c1ac25f451d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00082-texture
+    second: {fileID: 2800000, guid: ba3dbb26c5188d646916b78d34c60813, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00083-texture
+    second: {fileID: 2800000, guid: de8ff19ee295813429089f30313bcfd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00084-texture
+    second: {fileID: 2800000, guid: 53dd1ef920ede1a4387fdd041f942af5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00085-texture
+    second: {fileID: 2800000, guid: 19af806b0088dae4399e3c916a6711cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00086-texture
+    second: {fileID: 2800000, guid: 774bb75ea686f6442b6d72402ec3e97a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00087-texture
+    second: {fileID: 2800000, guid: 61122056e1376c345b42831287a4bb6b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00088-texture
+    second: {fileID: 2800000, guid: 13c7d557109383040aa05adccf4d84e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00091-texture
+    second: {fileID: 2800000, guid: ed6aa9c3354b66949964900c4730be10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00092-texture
+    second: {fileID: 2800000, guid: 138c5dfda21f5424faffbb3c6d2c7901, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00093-texture
+    second: {fileID: 2800000, guid: 018b9aaf9e960de479f56a586c66ce64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00094-texture
+    second: {fileID: 2800000, guid: e4b099aef734b274980c3d4fb8c95c73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00095-texture
+    second: {fileID: 2800000, guid: aa3d2f9777fbd5e4693c131242584525, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00096-texture
+    second: {fileID: 2800000, guid: f38be3a6c80b046499182dbc3df815db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00097-texture
+    second: {fileID: 2800000, guid: 19c191d73c737f94397a1b2aef8a2836, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00098-texture
+    second: {fileID: 2800000, guid: 33b6d0b4013a1e94c838f5830883feb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00099-texture
+    second: {fileID: 2800000, guid: 278228a943ad3514694e8490ddb53288, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00100-texture
+    second: {fileID: 2800000, guid: cb4a432c76786794c8f8cf3a209fa999, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00101-texture
+    second: {fileID: 2800000, guid: 7259cab9df6f97a44b608d408b72e4f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00102-texture
+    second: {fileID: 2800000, guid: 5e146bb59eaa9ae43a66a49176fb6ee5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00103-texture
+    second: {fileID: 2800000, guid: e1b702544e6670447ad13e5a925d26cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00104-texture
+    second: {fileID: 2800000, guid: 1cc66747eba75d0469828ca1a615eb53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00105-texture
+    second: {fileID: 2800000, guid: 3f740e57663ba614696b24f93d08260b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00106-texture
+    second: {fileID: 2800000, guid: 7c17fde032d9e104c9c63d92a1a4cb29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00107-texture
+    second: {fileID: 2800000, guid: 96b7612a3a307014c8d921895b137efd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00108-texture
+    second: {fileID: 2800000, guid: 7c178057b56aa304e88a7ad09aef26d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00109-texture
+    second: {fileID: 2800000, guid: b337fd17a81affc4e8e624840b2abdc9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00110-texture
+    second: {fileID: 2800000, guid: 4cd932a5e82b36446a07c5b4cf5fecf5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00111-texture
+    second: {fileID: 2800000, guid: d2c525e5c87eccc4ea98572f9de4a5ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00112-texture
+    second: {fileID: 2800000, guid: 6a46c949b184ff649a0c4cd3773d6fa3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00113-texture
+    second: {fileID: 2800000, guid: d34ff7c98417b544b9a94feec0872217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00114-texture
+    second: {fileID: 2800000, guid: d84c9ca4080a21243be8452145c3e6e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00115-texture
+    second: {fileID: 2800000, guid: dc7608b646be8974c979df0e0d7ca925, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00116-texture
+    second: {fileID: 2800000, guid: 8367512cf32824d4f914f5bbd9039515, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00117-texture
+    second: {fileID: 2800000, guid: 689d17c24daa7d1489430af5db6f3609, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00118-texture
+    second: {fileID: 2800000, guid: 9ae090f0454a83e4883a5bef8ab39118, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00119-texture
+    second: {fileID: 2800000, guid: b05a28c69048538439ac79ec5f9360d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00122-texture
+    second: {fileID: 2800000, guid: 470b03f2b3196a54c8d6ec50f1882693, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00123-texture
+    second: {fileID: 2800000, guid: 738e1c8de2eec2545b720c2528718331, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00124-texture
+    second: {fileID: 2800000, guid: c80e4d31371c7714cb0a5707f8df6a57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00125-texture
+    second: {fileID: 2800000, guid: 7f443eae616084a46b73829f07562444, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00126-texture
+    second: {fileID: 2800000, guid: 6cda28ef467ed614a956c3be0af20bc5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00127-texture
+    second: {fileID: 2800000, guid: 13fcaf76c0cc49c47874061038e7ca55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00128-texture
+    second: {fileID: 2800000, guid: 4afbbd44a1b02234a9423ca25f12130d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00130-texture
+    second: {fileID: 2800000, guid: bc751922d7bb5a34eb97043d1461b507, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00131-texture
+    second: {fileID: 2800000, guid: 2fa04743bcb9f4f4c900231f8f4d8500, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00132-texture
+    second: {fileID: 2800000, guid: 82abc70235462ca478012b5fb4b6d51d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00133-texture
+    second: {fileID: 2800000, guid: da96b13cb1c387d4e91c9fa5af2c739b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00134-texture
+    second: {fileID: 2800000, guid: 619ae911f7d934341b9be92b2b8768bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00135-texture
+    second: {fileID: 2800000, guid: dc1e615648d8a9f4abc31a33b2948658, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00136-texture
+    second: {fileID: 2800000, guid: e5ba90d8d0868a9429414239d667a5a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00137-texture
+    second: {fileID: 2800000, guid: 974db35d03d93404eab3d386a7bfbc46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00141-texture
+    second: {fileID: 2800000, guid: 88fd68dd0b7f27046a7635aa818e8764, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00142-texture
+    second: {fileID: 2800000, guid: 8e3645a50113cab4e96f0ac4535fe7e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00143-texture
+    second: {fileID: 2800000, guid: 3f79f6b2966010146ae10b8f85b61720, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00144-texture
+    second: {fileID: 2800000, guid: 5096813a4221c824a9a43af12fd8c560, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00145-texture
+    second: {fileID: 2800000, guid: d1c78cb9a5accb14a869e06f82cc1b7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00146-texture
+    second: {fileID: 2800000, guid: 933108e6fa6618b4d91f707cdf7755c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00147-texture
+    second: {fileID: 2800000, guid: 05473d9bc1f73984f8ec7bf0d188b690, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00148-texture
+    second: {fileID: 2800000, guid: be9552d28c0bdb648a5bb109a97f96d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00149-texture
+    second: {fileID: 2800000, guid: b6bab9a115659174bacb3e9f05d19b39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00150-texture
+    second: {fileID: 2800000, guid: 6b17738bab480ce42b24934654c5a397, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00151-texture
+    second: {fileID: 2800000, guid: 4de61a59eef98aa4c9c853354382dcf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00152-texture
+    second: {fileID: 2800000, guid: cff7c747aeea94044bcf973bcef48135, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00153-texture
+    second: {fileID: 2800000, guid: 7236f319d8adc74479b842ebf56f5ea6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00154-texture
+    second: {fileID: 2800000, guid: 9fd4faf78fdb4e34b8fc41fd90a8a316, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00155-texture
+    second: {fileID: 2800000, guid: bb00135ef85d2e54ebb2c4b398ddd30e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00156-texture
+    second: {fileID: 2800000, guid: e2d835988fd3c8f489838df57a29fd19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00157-texture
+    second: {fileID: 2800000, guid: 59cd090fd6c746446a00d6fae67f120c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00162-texture
+    second: {fileID: 2800000, guid: ab770784333f3ad4eb445f5edc1a26c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00163-texture
+    second: {fileID: 2800000, guid: 0d4300a771d89d14290ec8bd3c762e27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00164-texture
+    second: {fileID: 2800000, guid: ea2b6674fd6b85f4c8ca3874c56726ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00165-texture
+    second: {fileID: 2800000, guid: e7a3852e7c988c04ca8ddc6ff69a04de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00166-texture
+    second: {fileID: 2800000, guid: 8dbb3ffee12da06429ddedb7388569e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00167-texture
+    second: {fileID: 2800000, guid: 1428690bd9b895047bbc9a981e75ca60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00168-texture
+    second: {fileID: 2800000, guid: c79663e3ad5d17742883a4a62da2e880, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00169-texture
+    second: {fileID: 2800000, guid: dc380facf6a60e54ab26b115a9a16dcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00170-texture
+    second: {fileID: 2800000, guid: d675e0ba88c11514a921065093278e1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00171-texture
+    second: {fileID: 2800000, guid: e49cfb43912152d4da4950e9d278282a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00172-texture
+    second: {fileID: 2800000, guid: 380c8c82f2cf031449edf784994eaa38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00173-texture
+    second: {fileID: 2800000, guid: a5225dab72997bf40b4e7d35dabf6e01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00174-texture
+    second: {fileID: 2800000, guid: 2d25ed50488166a4b802cf61aeeae69a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00175-texture
+    second: {fileID: 2800000, guid: 8013c39eb22a4aa479a43c0d93e23f73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00176-texture
+    second: {fileID: 2800000, guid: e4f3ad90feb3b1448ba3e18bcb34838a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00177-texture
+    second: {fileID: 2800000, guid: 4e4d0b327483a3f418832618dbe3d3ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00178-texture
+    second: {fileID: 2800000, guid: 63e78966eb57ebe40929a80958f80ca2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00179-texture
+    second: {fileID: 2800000, guid: f615bdd85ae273f4681c5357f1cfed33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00180-texture
+    second: {fileID: 2800000, guid: add3eeecfc75621428008bbcaf6a38ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00183-texture
+    second: {fileID: 2800000, guid: 1947dce860716874aa53132428ad7e5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00184-texture
+    second: {fileID: 2800000, guid: 653997dfe5b0ec24ebf9f2f6ddc32b23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00185-texture
+    second: {fileID: 2800000, guid: 27e1823aa9572fb468dc878a99348518, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00186-texture
+    second: {fileID: 2800000, guid: 59fb2296f879270459d0edc82efc7989, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00187-texture
+    second: {fileID: 2800000, guid: 413fa1b8e27321848b1feb08e792e2cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00188-texture
+    second: {fileID: 2800000, guid: 913cb0353b4203a44bcc78a68e37845e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00189-texture
+    second: {fileID: 2800000, guid: edf164d91881d9d4eaac76b3f7e12723, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00190-texture
+    second: {fileID: 2800000, guid: 9533bd2cdf04f7f49ba7bbf246a2aa0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00191-texture
+    second: {fileID: 2800000, guid: 4d16cd93bfa69d0468c71c85e6aa1762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00192-texture
+    second: {fileID: 2800000, guid: 9ea1f20f700a11b44bc1a63c6e0c16bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00193-texture
+    second: {fileID: 2800000, guid: 91c662e903ccded47ba90cbdfe32145a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00194-texture
+    second: {fileID: 2800000, guid: cf5497c3126883c49869bb573fcdfd67, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00195-texture
+    second: {fileID: 2800000, guid: 653656dfa86ae3c4b91bcb6c1f0fa41b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00196-texture
+    second: {fileID: 2800000, guid: 677b6848b28940549a78d94d0728fcf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00197-texture
+    second: {fileID: 2800000, guid: 1830ae01827896645a3db23e9ffc254f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00198-texture
+    second: {fileID: 2800000, guid: 6b24e7dffec04814991f6333bb7f53fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00199-texture
+    second: {fileID: 2800000, guid: 2cf92b4df047a0d45b918b0cc3b5d5ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00200-texture
+    second: {fileID: 2800000, guid: 0a11d7d1292c7e045b12a728adb74c74, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: halfmap-frame3796-00201-texture
+    second: {fileID: 2800000, guid: 2b77e6255f0148a4b9aa2fc06a845877, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
