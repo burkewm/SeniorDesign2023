@@ -21,7 +21,9 @@ public class BkspButton : KeyboardButton
     }
     
     public void OnSelectExit() {
-        if (isPressed) 
+        if (isPressed) {
             keyboard.DeleteChar();
+            isPressed = false;
+        }
     }
 }

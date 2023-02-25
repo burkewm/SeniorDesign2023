@@ -21,7 +21,9 @@ public class CapsButton : KeyboardButton
     }
     
     public void OnSelectExit() {
-        if (isPressed) 
+        if (isPressed) {
             keyboard.CapsPressed();
+            isPressed = false;
+        }
     }
 }

@@ -22,7 +22,9 @@ public class SpaceButton : KeyboardButton
     }
     
     public void OnSelectExit() {
-        if (isPressed) 
+        if (isPressed) {
             keyboard.InsertSpace();
+            isPressed = false;
+        }
     }
 }

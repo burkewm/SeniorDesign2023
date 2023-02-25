@@ -37,8 +37,10 @@ public class KeyboardButton : MonoBehaviour
     }
     
     public void OnSelectExit() {
-        if (isPressed)
+        if (isPressed) {
             keyboard.InsertChar(buttonText.text);
+            isPressed = false;
+        }
     }
     public void OnHoverEnter()
     {
