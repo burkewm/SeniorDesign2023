@@ -19,7 +19,6 @@ public class EnterButton : KeyboardButton
     }
     
     public void OnSelectExit() {
-        //if (isPressed) 
-            //do something here
+        keyboard.Enter();
     }
 }

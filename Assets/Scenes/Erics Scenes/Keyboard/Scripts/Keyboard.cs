@@ -1,15 +1,22 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 using TMPro;
+using Normal.Realtime;
+
+public delegate void EnterPressedEventHandler(object sender, EnterPressedEventArgs e);
 
 public class Keyboard : MonoBehaviour
 {
+    public event EnterPressedEventHandler EnterPressed;
+    public GameObject parentCanvas;
     public TMP_InputField inputField;
     public GameObject lowerCase;
     public GameObject upperCase;
-    private bool caps;   
+    public Realtime realtime;
+    private bool caps;
 
     void Start()
     {
@@ -46,5 +53,11 @@ public class Keyboard : MonoBehaviour
         return inputField.text;
     }
 
-
+    public void Enter() {
+        EnterPressedEventArgs args = new EnterPressedEventArgs();
+        args.text = inputField.text;
+        EnterPressed?.Invoke(this, args);
+        inputField.text = "";
+        parentCanvas.SetActive(false);
+    }
 }   

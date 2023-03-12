@@ -8,7 +8,6 @@ public class ShowKeyboardToggle : MonoBehaviour
 {
     public InputActionReference showKeyboardRef = null;
     public GameObject keyboard;
-    bool keyboardDisplayed = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,12 +21,10 @@ public class ShowKeyboardToggle : MonoBehaviour
     }
 
     private void ToggleKeyboard(InputAction.CallbackContext context) {
-        if (!keyboardDisplayed) {
+        if (!keyboard.gameObject.activeSelf) {
             keyboard.gameObject.SetActive(true);
-            keyboardDisplayed = true;
         } else {
             keyboard.gameObject.SetActive(false);
-            keyboardDisplayed = false;
         }
     }
 }
