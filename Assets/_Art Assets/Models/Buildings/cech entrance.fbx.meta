@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 7a762c541597e0743ba828572fabc092
+=======
+guid: 36115e544a5d8c345af0c55b1469d142
+>>>>>>> Drawing
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
