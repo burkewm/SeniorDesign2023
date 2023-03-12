@@ -16,14 +16,9 @@ public class CapsButton : KeyboardButton
         if (buttonText.text.Length == 1) {
             NameToButtonText();
         }
-
-        isPressed = false;
     }
     
     public void OnSelectExit() {
-        if (isPressed) {
-            keyboard.CapsPressed();
-            isPressed = false;
-        }
+        keyboard.CapsPressed();
     }
 }

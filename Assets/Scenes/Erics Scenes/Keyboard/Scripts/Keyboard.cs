@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
 using TMPro;
 
 public class Keyboard : MonoBehaviour
@@ -8,7 +9,7 @@ public class Keyboard : MonoBehaviour
     public TMP_InputField inputField;
     public GameObject lowerCase;
     public GameObject upperCase;
-    private bool caps;
+    private bool caps;   
 
     void Start()
     {
@@ -44,4 +45,6 @@ public class Keyboard : MonoBehaviour
     public string GetText() {
         return inputField.text;
     }
+
+
 }   

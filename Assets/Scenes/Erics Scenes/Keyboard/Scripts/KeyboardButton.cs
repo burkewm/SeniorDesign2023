@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.XR;
 using TMPro;
 
 public class KeyboardButton : MonoBehaviour
@@ -11,7 +12,6 @@ public class KeyboardButton : MonoBehaviour
     protected GameObject presser;
     protected Material material;
     protected Color color;
-    protected bool isPressed;
 
     void Start()
     {
@@ -23,8 +23,6 @@ public class KeyboardButton : MonoBehaviour
         if (buttonText.text.Length == 1) {
             NameToButtonText();
         }
-
-        isPressed = false;
     }
 
     // Update is called once per frame
@@ -33,15 +31,12 @@ public class KeyboardButton : MonoBehaviour
     }
 
     public void OnSelectEnter() {
-        isPressed = true;
     }
     
     public void OnSelectExit() {
-        if (isPressed) {
-            keyboard.InsertChar(buttonText.text);
-            isPressed = false;
-        }
+        keyboard.InsertChar(buttonText.text);
     }
+
     public void OnHoverEnter()
     {
         material.color = Color.blue;

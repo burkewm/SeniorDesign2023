@@ -16,14 +16,9 @@ public class BkspButton : KeyboardButton
         if (buttonText.text.Length == 1) {
             NameToButtonText();
         }
-
-        isPressed = false;
     }
     
     public void OnSelectExit() {
-        if (isPressed) {
-            keyboard.DeleteChar();
-            isPressed = false;
-        }
+        keyboard.DeleteChar();
     }
 }

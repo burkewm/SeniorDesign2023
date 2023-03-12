@@ -16,8 +16,6 @@ public class EnterButton : KeyboardButton
         if (buttonText.text.Length == 1) {
             NameToButtonText();
         }
-
-        isPressed = false;
     }
     
     public void OnSelectExit() {

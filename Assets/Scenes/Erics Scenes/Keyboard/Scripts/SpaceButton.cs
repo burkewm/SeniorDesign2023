@@ -17,14 +17,9 @@ public class SpaceButton : KeyboardButton
             NameToButtonText();
         }
 
-        isPressed = false;
-
     }
     
     public void OnSelectExit() {
-        if (isPressed) {
-            keyboard.InsertSpace();
-            isPressed = false;
-        }
+        keyboard.InsertSpace();
     }
 }
