@@ -1136,6 +1136,34 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Keyboard",
+            "id": "ed666808-639d-4287-9eac-782378e39d43",
+            "actions": [
+                {
+                    "name": "ShowKeyboard",
+                    "type": "Button",
+                    "id": "e12d2594-0e1e-426e-bd0f-5ffc44c4b278",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "5d1ae4b9-3151-4fef-b642-411e9ea68e24",
+                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "ShowKeyboard",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

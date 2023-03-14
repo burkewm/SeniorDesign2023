@@ -106,8 +106,13 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD:Assets/_Art Assets/Models/Buildings/Materials/cech entrance-Bricks.002.mat
     - _BaseColor: {r: 0.21428579, g: 0.08672313, b: 0, a: 1}
     - _Color: {r: 0.21428579, g: 0.08672313, b: 0, a: 1}
+=======
+    - _BaseColor: {r: 1, g: 0.4235294, b: 0, a: 1}
+    - _Color: {r: 1, g: 0.4235294, b: 0, a: 1}
+>>>>>>> keyboard-testing:Assets/Normal/Examples/Blank Scene Template/Cubes/Orange.mat
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
