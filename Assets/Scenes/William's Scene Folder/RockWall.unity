@@ -4873,7 +4873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _obsoleteAppKey: 
-  _normcoreAppSettings: {fileID: 11400000, guid: 7ab4b830341bf424a84013c459584250,
+  _normcoreAppSettings: {fileID: 11400000, guid: f8efc49b82a8b4d4695e6e3c730410f4,
     type: 2}
   _roomToJoinOnStart: LadderRoom
   _joinRoomOnStart: 1
@@ -12746,6 +12746,80 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!1001 &468925373
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3936847189573234532, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: sceneNumber
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.346
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.906
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911081, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319365385997911085, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7,
+        type: 3}
+      propertyPath: m_Name
+      value: Teleporter
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0cadd0ca2f2bbcb49b8cc5099be707f7, type: 3}
 --- !u!65 &473343481
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31499,6 +31573,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Character Teleportation
+      objectReference: {fileID: 0}
+    - target: {fileID: 1455864141544286720, guid: d0c8480823c53574d85cef9da7fdde9b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1455864141544286720, guid: d0c8480823c53574d85cef9da7fdde9b,
         type: 3}

@@ -11,12 +11,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/William's Scene Folder/RockWall.unity
+    guid: 40d3dbb21da3a9e469e86ad221229c36
   - enabled: 0
     path: Assets/Scenes/Joe Scenes/Climbing.unity
     guid: d07e5eb3383efc1418c2c167e7de4759
   - enabled: 1
-    path: Assets/Scenes/William's Scene Folder/RockWall.unity
-    guid: 40d3dbb21da3a9e469e86ad221229c36
+    path: Assets/Scenes/William's Scene Folder/BrushUpdated.unity
+    guid: 021b323ba9c5a36428f010b0ed85f028
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58eff94a17351e14c994a3c88c67ee56,
       type: 2}
