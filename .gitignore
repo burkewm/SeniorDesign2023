@@ -60,6 +60,7 @@ crashlytics-build.properties
 
 
 Assets/_Art Assets/Models/Rooms/Swift-2.0-room.fbx.meta
+<<<<<<< HEAD
 Assets/XR/Settings/OpenXR Package Settings.asset
 Assets/XR/Settings/OpenXR Package Settings.asset
 ProjectSettings/EditorBuildSettings.asset
@@ -82,3 +83,9 @@ UserSettings/Layouts/default-2021.dwlt
 UserSettings/EditorUserSettings.asset
 ProjectSettings/ProjectSettings.asset
 ProjectSettings/EditorBuildSettings.asset
+=======
+UserSettings/EditorUserSettings.asset
+UserSettings/EditorUserSettings.asset
+UserSettings/EditorUserSettings.asset
+*.asset
+>>>>>>> Will-Taylor-Commits
