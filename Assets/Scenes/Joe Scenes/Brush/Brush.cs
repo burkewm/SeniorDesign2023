@@ -19,6 +19,7 @@ public class Brush : MonoBehaviour {
 
     // Used to keep track of the current brush tip position and the actively drawing brush stroke
     public  Vector3     _handPosition;
+    public Transform _handtrack;
     public  Quaternion  _handRotation;
     private BrushStroke _activeBrushStroke;
 
@@ -75,16 +76,16 @@ public class Brush : MonoBehaviour {
             _activeBrushStroke = brushStrokeGameObject.GetComponent<BrushStroke>();
 
             // Tell the BrushStroke to begin drawing at the current brush position
-            _activeBrushStroke.BeginBrushStrokeWithBrushTipPoint(_handPosition, _handRotation);
+            _activeBrushStroke.BeginBrushStrokeWithBrushTipPoint(_handtrack.position, _handRotation);
         }
 
         // If the trigger is pressed, and we have a brush stroke, move the brush stroke to the new brush tip position
         if (triggerPressed)
-            _activeBrushStroke.MoveBrushTipToPoint(_handPosition, _handRotation);
+            _activeBrushStroke.MoveBrushTipToPoint(_handtrack.position, _handRotation);
 
         // If the trigger is no longer pressed, and we still have an active brush stroke, mark it as finished and clear it.
         if (!triggerPressed && _activeBrushStroke != null) {
-            _activeBrushStroke.EndBrushStrokeWithBrushTipPoint(_handPosition, _handRotation);
+            _activeBrushStroke.EndBrushStrokeWithBrushTipPoint(_handtrack.position, _handRotation);
             _activeBrushStroke = null;
         }
     }
