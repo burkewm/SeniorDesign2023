@@ -62128,10 +62128,10 @@ MonoBehaviour:
   _localAvatarPrefab: {fileID: 1435502846325602, guid: 132fa799030920d4cb15dfab7ec5c45f,
     type: 3}
   _localPlayer:
-    root: {fileID: 0}
-    head: {fileID: 0}
-    leftHand: {fileID: 0}
-    rightHand: {fileID: 0}
+    root: {fileID: 132287552}
+    head: {fileID: 769163517}
+    leftHand: {fileID: 1346933462}
+    rightHand: {fileID: 599417286}
 --- !u!114 &2039588042
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -16,6 +16,7 @@ public class Keyboard : MonoBehaviour
     public GameObject lowerCase;
     public GameObject upperCase;
     public Realtime realtime;
+    public string roomID;
     private bool caps;
 
     void Start()
@@ -55,7 +56,7 @@ public class Keyboard : MonoBehaviour
 
     public void Enter() {
         EnterPressedEventArgs args = new EnterPressedEventArgs();
-        args.text = inputField.text;
+        args.text = inputField.text + roomID;
         EnterPressed?.Invoke(this, args);
         inputField.text = "";
         parentCanvas.SetActive(false);

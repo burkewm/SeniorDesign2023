@@ -1155,10 +1155,10 @@
                 {
                     "name": "",
                     "id": "5d1ae4b9-3151-4fef-b642-411e9ea68e24",
-                    "path": "<XRController>{RightHand}/secondaryButton",
+                    "path": "<OculusTouchController>{LeftHand}/primaryButton",
                     "interactions": "",
                     "processors": "",
-                    "groups": "Generic XR Controller",
+                    "groups": "",
                     "action": "ShowKeyboard",
                     "isComposite": false,
                     "isPartOfComposite": false
