@@ -1930,6 +1930,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2313765813283379584, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
+        type: 3}
+      propertyPath: near clip plane
+      value: 0.07
+      objectReference: {fileID: 0}
     - target: {fileID: 2313765813283379588, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1938,6 +1943,16 @@ PrefabInstance:
     - target: {fileID: 2313765813283379588, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
         type: 3}
       propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313765813283379590, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
+        type: 3}
+      propertyPath: m_Antialiasing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313765813283379590, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
+        type: 3}
+      propertyPath: m_RenderPostProcessing
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2313765813531492681, guid: 4b9d514ade9ec6946bc00beb51ae09c7,

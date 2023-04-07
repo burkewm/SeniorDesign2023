@@ -27,6 +27,10 @@ EditorBuildSettings:
     path: Assets/Scenes/William's Scene Folder/BrushUpdated.unity
     guid: 021b323ba9c5a36428f010b0ed85f028
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb0239fae459ba34382494896e9d6b13,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9d890f7a86338fa42bc8c87df969bfd3,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58eff94a17351e14c994a3c88c67ee56,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 29de486e442768f4b8828bfce3752516,
