@@ -125,6 +125,12 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &30869287 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2313765815059776774, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
+    type: 3}
+  m_PrefabInstance: {fileID: 622737717}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &37038390
 GameObject:
   m_ObjectHideFlags: 0
@@ -1300,8 +1306,8 @@ MonoBehaviour:
   _localAvatarPrefab: {fileID: 1435502846325602, guid: 132fa799030920d4cb15dfab7ec5c45f,
     type: 3}
   _localPlayer:
-    root: {fileID: 622737721}
-    head: {fileID: 622737718}
+    root: {fileID: 30869287}
+    head: {fileID: 622737721}
     leftHand: {fileID: 622737720}
     rightHand: {fileID: 622737719}
 --- !u!114 &502930830
@@ -1469,7 +1475,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -114.1, y: 171.6}
+  m_AnchoredPosition: {x: -108.7, y: 171.6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &573625463
@@ -2046,12 +2052,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4b9d514ade9ec6946bc00beb51ae09c7, type: 3}
---- !u!4 &622737718 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5498198092698013668, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
-    type: 3}
-  m_PrefabInstance: {fileID: 622737717}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &622737719 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2313765813531492682, guid: 4b9d514ade9ec6946bc00beb51ae09c7,
