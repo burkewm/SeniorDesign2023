@@ -59,6 +59,6 @@ public class Keyboard : MonoBehaviour
         args.text = inputField.text + roomID;
         EnterPressed?.Invoke(this, args);
         inputField.text = "";
-        parentCanvas.SetActive(false);
+        //parentCanvas.SetActive(false);
     }
 }   

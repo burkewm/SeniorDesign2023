@@ -31,7 +31,7 @@ public class GameManager : MonoBehaviour
         options.appKey = realtime.normcoreAppSettings.normcoreAppKey;
         options.matcherURL = realtime.normcoreAppSettings.matcherURL;
         realtime.Disconnect();
-        roomStatus.text = "Connecting to: " + e.text;
+        //roomStatus.text = "Connecting to: " + e.text;
         realtime.Connect(e.text, options);
     }
 }
